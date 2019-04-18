@@ -1,4 +1,4 @@
-# scratch-microbit-desktop
+# scratch-microbit-more-desktop
 
 Micro:bit programming environment based on Scratch Desktop
 
