@@ -1,8 +1,8 @@
 directories:
   buildResources: buildResources
   output: dist
-appId: edu.mit.scratch.scratch-desktop
-productName: "Scratch Desktop"
+appId: com.yengawa.scratch-microbit-more
+productName: "Scratch Microbit More"
 mac:
   category: public.app-category.education
   icon: buildResources/ScratchDesktop.icns
