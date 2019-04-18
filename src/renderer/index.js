@@ -9,6 +9,9 @@ import styles from './app.css';
 
 const defaultProjectId = 0;
 
+// Use localhost as hostname of Scratch Link websocket.
+window.deviceManagerPort = 'localhost:20110';
+
 // override window.open so that it uses the OS's default browser, not an electron browser
 window.open = function (url, target) {
     if (target === '_blank') {

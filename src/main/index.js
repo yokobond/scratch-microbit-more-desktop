@@ -114,3 +114,5 @@ app.on('ready', () => {
         _mainWindow = null;
     });
 });
+
+app.commandLine.appendSwitch('ignore-certificate-errors');
