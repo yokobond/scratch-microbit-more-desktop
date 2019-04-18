@@ -1,6 +1,6 @@
-# scratch-desktop
+# scratch-microbit-desktop
 
-Scratch 3.0 as a standalone desktop application
+Micro:bit programming environment based on Scratch Desktop
 
 ## Developer Instructions
 
