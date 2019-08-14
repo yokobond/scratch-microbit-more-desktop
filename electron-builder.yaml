@@ -6,6 +6,7 @@ productName: "Scratch Microbit More"
 mac:
   category: public.app-category.education
   icon: buildResources/ScratchDesktop.icns
+  provisioningProfile: embedded.provisionprofile
   target:
     - dmg
     - mas
@@ -14,8 +15,6 @@ mas:
   category: public.app-category.education
   entitlements: buildResources/entitlements.plist
   icon: buildResources/ScratchDesktop.icns
-  files:
-    - embedded.provisionprofile
 win:
   icon: buildResources/ScratchDesktop.ico
   target:
@@ -25,3 +24,5 @@ appx:
   identityName: ScratchFoundation.ScratchDesktop
   publisherDisplayName: "Scratch Foundation"
   publisher: "CN=2EC43DF1-469A-4119-9AB9-568A0A1FF65F"
+nsis:
+  oneClick: false # allow user to choose per-user or per-machine
