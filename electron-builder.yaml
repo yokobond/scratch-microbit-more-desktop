@@ -1,7 +1,7 @@
 directories:
   buildResources: buildResources
   output: dist
-appId: com.yengawa.scratch-ubitmore
+appId: com.yengawa.ubitmore
 productName: "uBitMore"
 mac:
   category: public.app-category.education
