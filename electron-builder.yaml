@@ -1,8 +1,8 @@
 directories:
   buildResources: buildResources
   output: dist
-appId: com.yengawa.scratch-microbit-more
-productName: "Scratch Microbit More"
+appId: com.yengawa.scratch-ubitmore
+productName: "uBitMore"
 mac:
   category: public.app-category.education
   icon: buildResources/ScratchDesktop.icns

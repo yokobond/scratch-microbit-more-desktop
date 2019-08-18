@@ -1,8 +1,8 @@
 {
   "name": "scratch-desktop",
-  "productName": "Scratch Desktop",
+  "productName": "uBitMore Desktop",
   "description": "Scratch 3.0 as a self-contained desktop application",
-  "author": "Scratch Foundation",
+  "author": "Koji Yokokawa",
   "version": "0.1.0",
   "license": "BSD-3-Clause",
   "scripts": {
