@@ -68,7 +68,7 @@ const createAboutWindow = () => {
         height: 400,
         parent: _windows.main,
         search: 'route=about',
-        title: 'About Scratch Desktop'
+        title: 'About uBitmore Desktop'
     });
     return window;
 };
@@ -77,7 +77,7 @@ const createMainWindow = () => {
     const window = createWindow({
         width: defaultSize.width,
         height: defaultSize.height,
-        title: 'Scratch Desktop'
+        title: 'uBitMore Desktop'
     });
     const webContents = window.webContents;
 
