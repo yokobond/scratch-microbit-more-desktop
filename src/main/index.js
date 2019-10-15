@@ -68,7 +68,7 @@ const createAboutWindow = () => {
         height: 400,
         parent: _windows.main,
         search: 'route=about',
-        title: 'About uBitmore Desktop'
+        title: 'About uBitMore Desktop'
     });
     return window;
 };
