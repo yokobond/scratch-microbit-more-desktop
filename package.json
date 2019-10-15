@@ -3,7 +3,7 @@
   "productName": "uBitMore Desktop",
   "description": "Scratch 3.0 as a self-contained desktop application",
   "author": "Koji Yokokawa",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "license": "BSD-3-Clause",
   "scripts": {
     "start": "electron-webpack dev --bail --display-error-details --env.minify=false",
