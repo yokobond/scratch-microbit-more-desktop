@@ -2,6 +2,8 @@
 
 Micro:bit programming environment based on Scratch Desktop
 
+***This repository was integrated into yokobond/scratch-microbit-more: Another micro:bit extension for Scratch3. https://github.com/yokobond/scratch-microbit-more .***
+
 ## Developer Instructions
 
 ### Prepare `scratch-gui`
